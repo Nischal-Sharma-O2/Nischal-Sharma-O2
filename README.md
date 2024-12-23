@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently an undergraduate student.
 - 🌱 I’m currently exploring various areas within web-development.
-- 📫 How to reach me [@nischal-](https://www.linkedin.com/in/nischal-/)
+- 📫 How to reach me [@nischal-]([https://www.linkedin.com/in/nischal-/](https://www.linkedin.com/in/nischal-sharma-287859341/))
 
 ## Languages and Tools
 
